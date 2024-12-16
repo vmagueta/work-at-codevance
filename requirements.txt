@@ -7,3 +7,4 @@ redis
 django-celery-results
 psycopg2-binary
 sqlparse
+gunicorn
