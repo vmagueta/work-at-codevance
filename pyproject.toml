@@ -17,6 +17,7 @@ dependencies = [
     "django-celery-results",
     "psycopg2-binary",
     "sqlparse",
+    "gunicorn",
 ]
 
 [project.optional-dependencies]
