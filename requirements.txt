@@ -1,0 +1,9 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+celery
+redis
+django-celery-results
+psycopg2-binary
+sqlparse
